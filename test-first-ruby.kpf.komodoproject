@@ -2,5 +2,6 @@
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="a15b8b1d-4aa1-4450-a94e-ce7b21206bd5" kpf_version="5" name="test-first-ruby.kpf.komodoproject">
 <preference-set idref="a15b8b1d-4aa1-4450-a94e-ce7b21206bd5" id="project" preftype="project">
+  <long id="prefs_version">1</long>
 </preference-set>
 </project>
